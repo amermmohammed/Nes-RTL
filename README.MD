@@ -9,6 +9,11 @@
 
 - [Pixopedia Free Font](https://fontsrepo.com/pixopedia-free-font/)
 
+
+# Supported Browsers:
+- firefox 100%
+- google Chrome 90%
+
 # This the Orginal Readme file of NES.css Repository on github
 
 <div align="center">
